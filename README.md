@@ -4,7 +4,7 @@
 
 _Project Design_
 
-_**Vedio At END**_
+_**Video At END**_
 
 _ROBOTIC ARM_
 
@@ -51,7 +51,7 @@ The Robotic Arm of this project consist of various component.
 
 Flex sensor & MPU6050 attached to Glove to control the motion of Robotic Arm
 
-_Vedio to Watch_
+_Video to Watch_
 
 
 https://user-images.githubusercontent.com/113198082/189499251-03c0c845-0dc3-46e7-a956-3b829e66e24e.mp4
