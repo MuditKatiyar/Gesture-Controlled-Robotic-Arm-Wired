@@ -54,9 +54,9 @@ Flex sensor & MPU6050 attached to Glove to control the motion of Robotic Arm
 _Video to Watch_
 
 
-https://user-images.githubusercontent.com/113198082/189499251-03c0c845-0dc3-46e7-a956-3b829e66e24e.mp4
+  https://user-images.githubusercontent.com/113198082/189499251-03c0c845-0dc3-46e7-a956-3b829e66e24e.mp4
 
 
 **_Code_**
 
-https://github.com/MuditKatiyar/Gesture-Controlled-Robotic-Arm-Wired/blob/176c3a942e415d15a9ec2cff70e1df8459cc33be/Myproject.ino
+  https://github.com/MuditKatiyar/Gesture-Controlled-Robotic-Arm-Wired/blob/176c3a942e415d15a9ec2cff70e1df8459cc33be/Myproject.ino
