@@ -14,6 +14,7 @@ The Robotic Arm of this project consist of various component.
 
 **1) End Effector.**
 Used to grip the Objects.
+
 ![image](https://user-images.githubusercontent.com/113198082/189498488-69e559d7-0b3d-4bca-a646-939a0be85084.png)
 ![image](https://user-images.githubusercontent.com/113198082/189498519-370e6205-096f-4f33-b309-423f647a144f.png)
 
