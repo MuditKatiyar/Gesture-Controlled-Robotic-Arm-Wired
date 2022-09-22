@@ -30,6 +30,7 @@ For choosing the servo motor in the Robotic arm, we must look at the torque and 
 
 ![image](https://user-images.githubusercontent.com/113198082/191836511-e2da4d51-75ad-4c38-900d-9f18f271ab99.png)
 ![image](https://user-images.githubusercontent.com/113198082/191836563-c7e0fe61-a92b-4e0a-9e3e-25ad7c9c1b85.png)
+
 Connecting Pins are VCC, GND & PWM.
 
 **_For connection refer to repository report file_**
